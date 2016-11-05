@@ -1,4 +1,10 @@
-* hexo.el
+
+* hexo-mode
+
+An emacs mode for working with [Hexo](https://hexo.io) blogs.
+Fork from excellent [hexo.el](https://github.com/kuanyui/hexo.el)
+
+* original readme
 Emacs major-mode & tools for [[https://github.com/hexojs/hexo][Hexo]]. σ(´∀｀*)
 
 * Screenshots
